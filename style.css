@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 96% !important;
+}
+.sign-btn{
+    border: 1px solid black;
+    padding: 5px 12px;
+    border-radius: 20px;
+    background-color: white;
+    font-weight: 500;
+   margin-inline: 40px 10px;
+    
+   
+}
+.join-btn{
+    padding: 7px 20px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    border-style: none;
+}
+.join-btn:hover{
+    opacity: 0.6;
+}
+.sign-btn:hover{
+    background-color: rgb(211, 210, 210);
+}
+.find-btn{
+    border-style: none;
+    font-weight: 500;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+.find-btn:hover{
+    color:#275221;
+}
+.nav-list a{
+
+text-decoration: none;
+color: black;
+font-weight: 500;
+}
+.nav-list {
+    list-style: none;
+}
+.nav-link:hover {
+  color:#275221 !important;
+} 
+.images-fluid{
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+}
+.starbucks-btn{
+    background-color: transparent;
+    border: 1px solid black;
+    padding: 7px 20px;
+    border-radius: 25px;
+    font-weight: 600;
+    color: #32472f;
+    margin-top: 20px;
+    font-size: 1rem;
+}
+.starbucks-btn:hover{
+    background-color: #c5c598;;
+}
+.ordernow-btn{
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 7px 16px;
+    border-radius: 20px;
+    font-weight: 600;
+    color: white;
+    margin-top: 20px;
+    font-size: 1rem;
+   
+}
+.ordernow-btn:hover{
+    background-color: #223720;
+}
+.para{
+    text-align: center;
+    margin-top: 55px;
+    color: black;
+    font-weight: 400;
+    margin-bottom: 30px;
+
+}
+.hero-section{
+   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding-bottom: 2rem;
+}
+.accordion-body a{
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+.accordion-body:active{
+    border: none;
+}
+.row li a{
+    
+    line-height: 3em;
+    text-decoration: none;
+
+}
+.row li{
+    list-style: none;
+}  
+.container2{
+    border-bottom: 1px solid black;
+}
+.row i{
+font-size: 35px;
+cursor: pointer;
+}
+.row a{
+    display: block;
+    color: black;
+    text-decoration: none;
+    margin-block: 20px;
+    font-weight: 500;
+}
+.starbucks-feature a:hover{
+    text-decoration: underline;
+color: black;
+
+}
+.row i:hover{
+background: #e1e1e1;
+   
+
+}
